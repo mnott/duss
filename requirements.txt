@@ -1,0 +1,3 @@
+# Dependencies for duss.py
+rich>=13.0.0
+typer>=0.9.0
